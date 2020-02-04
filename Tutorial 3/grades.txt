@@ -1,0 +1,5 @@
+Student #100 mark = 1 
+Student #101 mark = 2 
+Student #102 mark = 3 
+Student #561 mark = 0 
+ average = 1 , standard deviation = 1.
